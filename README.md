@@ -8,7 +8,7 @@
 
 ## Category
 > 유의미한 알고리즘을 사용한 경우 분류를 합니다.
- * [그리디 알고리즘]((https://github.com/raejoonee/Algorithm#그리디%20알고리즘)
+ * [그리디 알고리즘](https://github.com/raejoonee/Algorithm#그리디%20알고리즘)
  * [동적 계획법](https://github.com/raejoonee/Algorithm#동적%20계획법)
  * [수학](https://github.com/raejoonee/Algorithm#수학)
  * [스택](https://github.com/raejoonee/Algorithm#스택)
