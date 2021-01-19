@@ -45,7 +45,7 @@
 | BOJ | 1152 | [단어의 개수](http://boj.kr/1152) | C++ | [:memo:](문자열/1152.cpp) | |
 | BOJ | 1157 | [단어 공부](http://boj.kr/1157) | C++ | [:memo:](문자열/1157.cpp) | |
 | BOJ | 2675 | [문자열 반복](http://boj.kr/2675) | JavaScript | [:memo:](문자열/2675.js) | |
-| BOJ | 2941 | [크로아티아 알파벳](http://boj.kr/2941) | C++ | [:memo:](문자열/2941.js) | |
+| BOJ | 2941 | [크로아티아 알파벳](http://boj.kr/2941) | JavaScript | [:memo:](문자열/2941.js) | |
 | Programmers | 12903 | [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) | JavaScript | [:memo:](문자열/programmers_12903.js) | |
  
 ## 수학
