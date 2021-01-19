@@ -7,9 +7,8 @@
 ---
 
 ## Category
-> 풀이를 완료한 모든 문제는 알고리즘에 따라 분류를 합니다.
-
-> 배운 점이 많았거나, 회고할 만한 인상적인 내용이 있는 문제는 따로 회고를 남깁니다.
+> * 풀이를 완료한 모든 문제는 알고리즘에 따라 분류를 합니다.
+> * 배운 점이 많았거나, 회고할 만한 인상적인 내용이 있는 문제는 따로 회고를 남깁니다.
  * [DFS/BFS](https://github.com/raejoonee/Algorithm#DFS/BFS)
  * [그리디 알고리즘](https://github.com/raejoonee/Algorithm#그리디-알고리즘)
  * [동적 계획법](https://github.com/raejoonee/Algorithm#동적-계획법)
