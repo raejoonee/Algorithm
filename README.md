@@ -57,7 +57,10 @@
 | BOJ | 1330 | [두 수 비교하기](http://boj.kr/1330) | C++ | [:memo:](수학/1330.cpp) | |
 | BOJ | 1373 | [2진수 8진수](http://boj.kr/1373) | C++ | [:memo:](수학/1373.cpp) | |
 | BOJ | 1546 | [평균](http://boj.kr/1546) | C++ | [:memo:](수학/1546.cpp) | |
+| BOJ | 15894 | [수학은 체육과목 입니다](http://boj.kr/15894) | C++ | [:memo:](수학/15894.cpp) | |
+| BOJ | 17211 | [좋은 날 싫은 날](http://boj.kr/17211) | C++ | [:memo:](수학/17211.cpp) | |
 | BOJ | 17213 | [과일 서리](http://boj.kr/17213) | C++ | [:memo:](수학/17213.cpp) | [:technologist:](https://raejoonee.tistory.com/4) |
+| BOJ | 18414 | [Xに最も近い値](http://boj.kr/18414) | C++ | [:memo:](수학/18414.cpp) | |
  
 ## 완전 탐색
 
@@ -70,6 +73,10 @@
  
 ## 이분 탐색
  
+| 문제 출처 | 문제 번호 | 문제 이름 | 풀이 언어 | 풀이 | 회고 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| BOJ | 2869 | [달팽이는 올라가고 싶다](http://boj.kr/2869) | C++ | [:memo:](이분%20탐색/2869.cpp) | [:technologist:](https://raejoonee.tistory.com/7) |
+
 ## 자료구조
 ### 스택
 
@@ -77,6 +84,7 @@
 | 문제 출처 | 문제 번호 | 문제 이름 | 풀이 언어 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | BOJ | 1158 | [요세푸스 문제](http://boj.kr/1158) | C++ | [:memo:](자료구조/큐/1158.cpp) | |
+| Programmers | 42586 | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | JavaScript | [:memo:](자료구조/큐/p_42586.js) | [:technologist:](https://raejoonee.tistory.com/12) |
 
 ## 정렬
 | 문제 출처 | 문제 번호 | 문제 이름 | 풀이 언어 | 풀이 | 회고 |
