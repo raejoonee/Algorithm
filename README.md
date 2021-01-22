@@ -10,6 +10,7 @@
 > * 풀이를 완료한 모든 문제는 알고리즘에 따라 분류를 합니다.
 > * 배운 점이 많았거나, 회고할 만한 인상적인 내용이 있는 문제는 따로 회고를 남깁니다.
  * [DFS/BFS](https://github.com/raejoonee/Algorithm#DFS/BFS)
+ * [구현](https://github.com/raejoonee/Algorithm#구현)
  * [그리디 알고리즘](https://github.com/raejoonee/Algorithm#그리디-알고리즘)
  * [동적 계획법](https://github.com/raejoonee/Algorithm#동적-계획법)
  * [문자열](https://github.com/raejoonee/Algorithm#문자열)
@@ -25,18 +26,28 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | BOJ | 1260 | [DFS와 BFS](http://boj.kr/1260) | C++ | [:memo:](DFS:BFS/1260.cpp) | |
 
+## 구현
+
+| 문제 출처 | 문제 번호 | 문제 이름 | 풀이 언어 | 풀이 | 회고 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| Programmers | 17676 | [추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676) | JavaScript | [:memo:](구현/p_17676.cpp) | |
+
 ## 그리디 알고리즘
 
 | 문제 출처 | 문제 번호 | 문제 이름 | 풀이 언어 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | BOJ | 1541 | [잃어버린 괄호](http://boj.kr/1541) | JavaScript | [:memo:](그리디%20알고리즘/1541.js) | [:technologist:](https://raejoonee.tistory.com/11) |
+| BOJ | 14659 | [한조서열정리하고옴ㅋㅋ](http://boj.kr/14659) | JavaScript | [:memo:](그리디%20알고리즘/14659.js) | |
+| BOJ | 15903 | [카드 합체 놀이](http://boj.kr/15903) | C++ | [:memo:](그리디%20알고리즘/15903.cpp) | |
 
 ## 동적 계획법
 
 | 문제 출처 | 문제 번호 | 문제 이름 | 풀이 언어 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: |
+| BOJ | 1149 | [RGB 거리](http://boj.kr/1149) | JavaScript | [:memo:](동적%20계획법/1149.js) | |
 | BOJ | 1463 | [1로 만들기](http://boj.kr/1463) | C++ | [:memo:](동적%20계획법/1463.cpp) | |
 | BOJ | 2193 | [이친수](http://boj.kr/2193) | C++ | [:memo:](동적%20계획법/2193.cpp) | [:technologist:](https://raejoonee.tistory.com/5) |
+| Programmers | 12900 | [2 x n 타일링](https://programmers.co.kr/learn/courses/30/lessons/12900) | JavaScript | [:memo:](동적%20계획법/p_12900.js) | |
 
 ## 문자열
 
@@ -57,6 +68,7 @@
 | BOJ | 1330 | [두 수 비교하기](http://boj.kr/1330) | C++ | [:memo:](수학/1330.cpp) | |
 | BOJ | 1373 | [2진수 8진수](http://boj.kr/1373) | C++ | [:memo:](수학/1373.cpp) | |
 | BOJ | 1546 | [평균](http://boj.kr/1546) | C++ | [:memo:](수학/1546.cpp) | |
+| BOJ | 15727 | [조별과제를 하려는데 조장이 사라졌다](http://boj.kr/15727) | C++ | [:memo:](수학/15727.cpp) | |
 | BOJ | 15894 | [수학은 체육과목 입니다](http://boj.kr/15894) | C++ | [:memo:](수학/15894.cpp) | |
 | BOJ | 17211 | [좋은 날 싫은 날](http://boj.kr/17211) | C++ | [:memo:](수학/17211.cpp) | |
 | BOJ | 17213 | [과일 서리](http://boj.kr/17213) | C++ | [:memo:](수학/17213.cpp) | [:technologist:](https://raejoonee.tistory.com/4) |
