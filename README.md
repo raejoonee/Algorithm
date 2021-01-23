@@ -101,6 +101,7 @@
 | 문제 출처 | 문제 번호 | 문제 이름 | 풀이 언어 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | BOJ | 1158 | [요세푸스 문제](http://boj.kr/1158) | C++ | [:memo:](자료구조/큐/1158.cpp) | |
+| Programmers | 42583 | [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) | JavaScript | [:memo:](자료구조/큐/p_42583.js) | [:technologist:](https://raejoonee.tistory.com/13) |
 | Programmers | 42586 | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | JavaScript | [:memo:](자료구조/큐/p_42586.js) | [:technologist:](https://raejoonee.tistory.com/12) |
 
 ## 정렬
