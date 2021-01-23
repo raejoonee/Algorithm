@@ -6,7 +6,6 @@ function count(time, traffics, curCount) {
         if (Math.abs(traffics[idx]) - Math.abs(time) >= 1000) break;
         if (traffics[idx] * time > 0) continue;
         if (traffics[idx] > 0) curCount++;
-        if (traffics[idx] === time) curCount++;
     }
     return curCount;
 }
