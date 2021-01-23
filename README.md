@@ -9,7 +9,6 @@
 ## Category
 > * 풀이를 완료한 모든 문제는 알고리즘에 따라 분류를 합니다.
 > * 배운 점이 많았거나, 회고할 만한 인상적인 내용이 있는 문제는 따로 회고를 남깁니다.
- * [DFS/BFS](https://github.com/raejoonee/Algorithm#DFS/BFS)
  * [구현](https://github.com/raejoonee/Algorithm#구현)
  * [그리디 알고리즘](https://github.com/raejoonee/Algorithm#그리디-알고리즘)
  * [동적 계획법](https://github.com/raejoonee/Algorithm#동적-계획법)
@@ -19,18 +18,12 @@
  * [이분 탐색](https://github.com/raejoonee/Algorithm#이분-탐색)
  * [자료구조](https://github.com/raejoonee/Algorithm#자료구조)
  * [정렬](https://github.com/raejoonee/Algorithm#정렬)
- 
-## DFS/BFS
-
-| 문제 출처 | 문제 번호 | 문제 이름 | 풀이 언어 | 풀이 | 회고 |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| BOJ | 1260 | [DFS와 BFS](http://boj.kr/1260) | C++ | [:memo:](DFS:BFS/1260.cpp) | |
 
 ## 구현
 
 | 문제 출처 | 문제 번호 | 문제 이름 | 풀이 언어 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| Programmers | 17676 | [추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676) | JavaScript | [:memo:](구현/p_17676.cpp) | |
+| Programmers | 17676 | [추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676) | JavaScript | [:memo:](구현/p_17676.cpp) | [:technologist:](https://raejoonee.tistory.com/14) |
 
 ## 그리디 알고리즘
 
