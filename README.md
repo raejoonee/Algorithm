@@ -24,6 +24,8 @@
 | 문제 출처 | 문제 번호 | 문제 이름 | 풀이 언어 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | Programmers | 17676 | [추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676) | JavaScript | [:memo:](구현/p_17676.cpp) | [:technologist:](https://raejoonee.tistory.com/14) |
+| Codility | 3-2 | [PermMissingElem](https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/start/) | JavaScript | [:memo:](구현/c_3-2.js) | |
+| Codility | 3-3 | [TapeEquilibrium](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/start/) | JavaScript | [:memo:](구현/c_3-3.js) | |
 
 ## 그리디 알고리즘
 
@@ -40,6 +42,7 @@
 | BOJ | 1149 | [RGB 거리](http://boj.kr/1149) | JavaScript | [:memo:](동적%20계획법/1149.js) | |
 | BOJ | 1463 | [1로 만들기](http://boj.kr/1463) | C++ | [:memo:](동적%20계획법/1463.cpp) | |
 | BOJ | 2193 | [이친수](http://boj.kr/2193) | C++ | [:memo:](동적%20계획법/2193.cpp) | [:technologist:](https://raejoonee.tistory.com/5) |
+| BOJ | 14501 | [퇴사](http://boj.kr/14501) | Java | [:memo:](동적%20계획법/14501.java) | |
 | Programmers | 12900 | [2 x n 타일링](https://programmers.co.kr/learn/courses/30/lessons/12900) | JavaScript | [:memo:](동적%20계획법/p_12900.js) | |
 
 ## 문자열
@@ -89,6 +92,10 @@
 | BOJ | 1302 | [베스트셀러](http://boj.kr/1302) | Java | [:memo:](자료구조/맵/1302.java) | |
 
 ### 스택
+| 문제 출처 | 문제 번호 | 문제 이름 | 풀이 언어 | 풀이 | 회고 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| BOJ | 1935 | [후위 표기식2](http://boj.kr/1935) | Java | [:memo:](자료구조/스택/1935.java) | |
+| Programmers | 49993 | [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993) | C++, JavaScript | [:memo:](자료구조/스택/p_49993.cpp) [:memo:](자료구조/스택/p_49993.js) | [:technologist:](https://raejoonee.tistory.com/8) |
 
 ### 큐
 | 문제 출처 | 문제 번호 | 문제 이름 | 풀이 언어 | 풀이 | 회고 |
