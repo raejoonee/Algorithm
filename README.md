@@ -31,9 +31,11 @@
 
 | 문제 출처 | 문제 번호 | 문제 이름 | 풀이 언어 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: |
+| BOJ | 1092 | [배](http://boj.kr/1092) | JavaScript | [:memo:](그리디%20알고리즘/1092.js) | |
 | BOJ | 1541 | [잃어버린 괄호](http://boj.kr/1541) | JavaScript | [:memo:](그리디%20알고리즘/1541.js) | [:technologist:](https://raejoonee.tistory.com/11) |
 | BOJ | 14659 | [한조서열정리하고옴ㅋㅋ](http://boj.kr/14659) | JavaScript | [:memo:](그리디%20알고리즘/14659.js) | |
 | BOJ | 15903 | [카드 합체 놀이](http://boj.kr/15903) | C++ | [:memo:](그리디%20알고리즘/15903.cpp) | |
+| BOJ | 18418 | [いちご](http://boj.kr/18418) | JavaScript | [:memo:](그리디%20알고리즘/18418.js) | |
 
 ## 동적 계획법
 
@@ -43,6 +45,7 @@
 | BOJ | 1463 | [1로 만들기](http://boj.kr/1463) | C++ | [:memo:](동적%20계획법/1463.cpp) | |
 | BOJ | 2193 | [이친수](http://boj.kr/2193) | C++ | [:memo:](동적%20계획법/2193.cpp) | [:technologist:](https://raejoonee.tistory.com/5) |
 | BOJ | 14501 | [퇴사](http://boj.kr/14501) | Java | [:memo:](동적%20계획법/14501.java) | |
+| BOJ | 18419 | [桁和](http://boj.kr/18419) | JavaScript | [:memo:](동적%20계획법/18419.js) | |
 | Programmers | 12900 | [2 x n 타일링](https://programmers.co.kr/learn/courses/30/lessons/12900) | JavaScript | [:memo:](동적%20계획법/p_12900.js) | |
 
 ## 문자열
