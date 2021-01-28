@@ -23,7 +23,7 @@
 
 | 문제 출처 | 문제 번호 | 문제 이름 | 풀이 언어 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| Programmers | 17676 | [추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676) | JavaScript | [:memo:](구현/p_17676.cpp) | [:technologist:](https://raejoonee.tistory.com/14) |
+| Programmers | 17676 | [추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676) | JavaScript | [:memo:](구현/p_17676.js) | [:technologist:](https://raejoonee.tistory.com/14) |
 | Codility | 3-2 | [PermMissingElem](https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/start/) | JavaScript | [:memo:](구현/c_3-2.js) | |
 | Codility | 3-3 | [TapeEquilibrium](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/start/) | JavaScript | [:memo:](구현/c_3-3.js) | |
 
