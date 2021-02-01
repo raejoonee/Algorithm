@@ -11,6 +11,7 @@
 > * **기준:** 백준 난이도 실버 이상, 프로그래머스 난이도 Level 2 이상
 > * 배운 점이 많았거나, 회고할 만한 인상적인 내용이 있는 문제는 따로 회고를 남깁니다.
  * [구현](https://github.com/raejoonee/Algorithm#구현)
+ * [그래프](https://github.com/raejoonee/Algorithm#그래프)
  * [그리디 알고리즘](https://github.com/raejoonee/Algorithm#그리디-알고리즘)
  * [동적 계획법](https://github.com/raejoonee/Algorithm#동적-계획법)
  * [문자열](https://github.com/raejoonee/Algorithm#문자열)
@@ -28,6 +29,12 @@
 | Codility | 3-2 | [PermMissingElem](https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/start/) | JavaScript | [:memo:](구현/c_3-2.js) | |
 | Codility | 3-3 | [TapeEquilibrium](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/start/) | JavaScript | [:memo:](구현/c_3-3.js) | |
 
+## 그래프
+
+| 문제 출처 | 문제 번호 | 문제 이름 | 풀이 언어 | 풀이 | 회고 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| BOJ | 3184 | [양](http://boj.kr/3184) | Java | [:memo:](그래프/3184.java) | |
+
 ## 그리디 알고리즘
 
 | 문제 출처 | 문제 번호 | 문제 이름 | 풀이 언어 | 풀이 | 회고 |
@@ -44,6 +51,7 @@
 | BOJ | 1149 | [RGB 거리](http://boj.kr/1149) | JavaScript | [:memo:](동적%20계획법/1149.js) | |
 | BOJ | 1463 | [1로 만들기](http://boj.kr/1463) | C++ | [:memo:](동적%20계획법/1463.cpp) | |
 | BOJ | 1904 | [01타일](http://boj.kr/1904) | C++ | [:memo:](동적%20계획법/1904.cpp) | |
+| BOJ | 2156 | [포도주 시식](http://boj.kr/2156) | Java | [:memo:](동적%20계획법/2156.java) | [:technologist:](https://raejoonee.tistory.com/15) |
 | BOJ | 2193 | [이친수](http://boj.kr/2193) | C++ | [:memo:](동적%20계획법/2193.cpp) | [:technologist:](https://raejoonee.tistory.com/5) |
 | BOJ | 2579 | [계단 오르기](http://boj.kr/2579) | C++ | [:memo:](동적%20계획법/2579.cpp) | |
 | BOJ | 14501 | [퇴사](http://boj.kr/14501) | Java | [:memo:](동적%20계획법/14501.java) | |
@@ -98,6 +106,11 @@
 | BOJ | 1158 | [요세푸스 문제](http://boj.kr/1158) | C++ | [:memo:](자료구조/큐/1158.cpp) | |
 | Programmers | 42583 | [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) | JavaScript | [:memo:](자료구조/큐/p_42583.js) | [:technologist:](https://raejoonee.tistory.com/13) |
 | Programmers | 42586 | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | JavaScript | [:memo:](자료구조/큐/p_42586.js) | [:technologist:](https://raejoonee.tistory.com/12) |
+
+#### 우선순위 큐
+| 문제 출처 | 문제 번호 | 문제 이름 | 풀이 언어 | 풀이 | 회고 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| BOJ | 11286 | [절댓값 힙](http://boj.kr/11286) | Java | [:memo:](자료구조/우선순위%20큐/11286.java) | |
 
 ## 정렬
 | 문제 출처 | 문제 번호 | 문제 이름 | 풀이 언어 | 풀이 | 회고 |
