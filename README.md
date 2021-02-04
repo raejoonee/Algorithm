@@ -25,6 +25,8 @@
 
 | 문제 출처 | 문제 번호 | 문제 이름 | 풀이 언어 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: |
+| BOJ | 1244 | [스위치 켜고 끄기](http://boj.kr/1244) | Java | [:memo:](구현/1244.java) | |
+| BOJ | 17478 | [재귀함수가 뭔가요?](http://boj.kr/17478) | Java | [:memo:](구현/17478.java) | |
 | Programmers | 17676 | [추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676) | JavaScript | [:memo:](구현/p_17676.js) | [:technologist:](https://raejoonee.tistory.com/14) |
 | Codility | 3-2 | [PermMissingElem](https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/start/) | JavaScript | [:memo:](구현/c_3-2.js) | |
 | Codility | 3-3 | [TapeEquilibrium](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/start/) | JavaScript | [:memo:](구현/c_3-3.js) | |
