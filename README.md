@@ -15,6 +15,7 @@
  * [그리디 알고리즘](https://github.com/raejoonee/Algorithm#그리디-알고리즘)
  * [동적 계획법](https://github.com/raejoonee/Algorithm#동적-계획법)
  * [문자열](https://github.com/raejoonee/Algorithm#문자열)
+ * [분할 정복](https://github.com/raejoonee/Algorithm#분할-정복)
  * [수학](https://github.com/raejoonee/Algorithm#수학)
  * [완전 탐색](https://github.com/raejoonee/Algorithm#완전-탐색)
  * [이분 탐색](https://github.com/raejoonee/Algorithm#이분-탐색)
@@ -36,6 +37,7 @@
 | 문제 출처 | 문제 번호 | 문제 이름 | 풀이 언어 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | BOJ | 3184 | [양](http://boj.kr/3184) | Java | [:memo:](그래프/3184.java) | |
+| Programmers | 43162 | [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) | JavaScript | [:memo:](그래프/p_43162.js) |  |
 
 ## 그리디 알고리즘
 
@@ -67,7 +69,13 @@
 | BOJ | 2941 | [크로아티아 알파벳](http://boj.kr/2941) | JavaScript | [:memo:](문자열/2941.js) | |
 | BOJ | 12904 | [A와 B](http://boj.kr/12904) | JavaScript | [:memo:](문자열/12904.js) | |
 | Programmers | 12903 | [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) | JavaScript | [:memo:](문자열/programmers_12903.js) | |
- 
+
+## 분할 정복
+
+| 문제 출처 | 문제 번호 | 문제 이름 | 풀이 언어 | 풀이 | 회고 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| BOJ | 1992 | [쿼드트리](http://boj.kr/1992) | Java | [:memo:](분할%20정복/1992.java) | |
+
 ## 수학
 
 | 문제 출처 | 문제 번호 | 문제 이름 | 풀이 언어 | 풀이 | 회고 |
@@ -106,6 +114,7 @@
 | 문제 출처 | 문제 번호 | 문제 이름 | 풀이 언어 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | BOJ | 1158 | [요세푸스 문제](http://boj.kr/1158) | C++ | [:memo:](자료구조/큐/1158.cpp) | |
+| BOJ | 2164 | [카드2](http://boj.kr/2164) | Java | [:memo:](자료구조/큐/2164.java) | |
 | Programmers | 42583 | [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) | JavaScript | [:memo:](자료구조/큐/p_42583.js) | [:technologist:](https://raejoonee.tistory.com/13) |
 | Programmers | 42586 | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | JavaScript | [:memo:](자료구조/큐/p_42586.js) | [:technologist:](https://raejoonee.tistory.com/12) |
 
@@ -113,6 +122,8 @@
 | 문제 출처 | 문제 번호 | 문제 이름 | 풀이 언어 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | BOJ | 11286 | [절댓값 힙](http://boj.kr/11286) | Java | [:memo:](자료구조/우선순위%20큐/11286.java) | |
+| Programmers | 42587 | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) | JavaScript | [:memo:](자료구조/우선순위%20큐/p_42587.js) |  |
+| Programmers | 42627 | [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) | JavaScript | [:memo:](자료구조/우선순위%20큐/p_42627.js) | 작성중.. |
 
 ## 정렬
 | 문제 출처 | 문제 번호 | 문제 이름 | 풀이 언어 | 풀이 | 회고 |
