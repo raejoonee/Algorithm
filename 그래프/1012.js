@@ -24,11 +24,9 @@ for (let i = 0; i < T; i++) {
     let cabbageField = Array.from(Array(N), () => Array(M).fill(0));
     let visited = Array.from(Array(N), () => Array(M).fill(false));
     let curAnswer = 0;
-    let wormList = [];
     for (let j = 0; j < K; j++) {
         const [X, Y] = input().split(" ").map(e => parseInt(e));
         cabbageField[Y][X] = 1;
-        wormList.push([Y, X]);
     }
     const dfs = (y, x) => {
         if (cabbageField[y] === undefined) return ;
