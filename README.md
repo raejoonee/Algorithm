@@ -97,6 +97,7 @@
 | BOJ | 11726 | [2×n 타일링](http://boj.kr/11726) | C++ | [:memo:](다이나믹%20프로그래밍/11726.cpp) | |
 | BOJ | 11727 | [2×n 타일링 2](http://boj.kr/11727) | C++ | [:memo:](다이나믹%20프로그래밍/11727.cpp) | |
 | BOJ | 14501 | [퇴사](http://boj.kr/14501) | Java | [:memo:](다이나믹%20프로그래밍/14501.java) | |
+| BOJ | 17404 | [RGB거리 2](http://boj.kr/17404) | Java | [:memo:](다이나믹%20프로그래밍/17404.java) | |
 | BOJ | 18419 | [桁和](http://boj.kr/18419) | JavaScript | [:memo:](다이나믹%20프로그래밍/18419.js) | |
 | Programmers | 12900 | [2 x n 타일링](https://programmers.co.kr/learn/courses/30/lessons/12900) | JavaScript | [:memo:](다이나믹%20프로그래밍/p_12900.js) | |
 
