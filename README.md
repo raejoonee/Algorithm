@@ -16,6 +16,7 @@
  * [다이나믹 프로그래밍](https://github.com/raejoonee/Algorithm#다이나믹-프로그래밍)
  * [문자열](https://github.com/raejoonee/Algorithm#문자열)
  * [분할 정복](https://github.com/raejoonee/Algorithm#분할-정복)
+ * [비트마스킹](https://github.com/raejoonee/Algorithm#비트마스킹)
  * [수학](https://github.com/raejoonee/Algorithm#수학)
  * [완전 탐색](https://github.com/raejoonee/Algorithm#완전-탐색)
  * [이분 탐색](https://github.com/raejoonee/Algorithm#이분-탐색)
