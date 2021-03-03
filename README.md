@@ -194,6 +194,7 @@
 
 | 문제 출처 | 문제 번호 | 문제 이름 | 풀이 언어 | 풀이 | 회고 |
 | :---: | :---: | :---: | :---: | :---: | :---: |
+| BOJ | 1715 | [카드 정렬하기](http://boj.kr/1715) | Java | [:memo:](자료구조/우선순위%20큐/1715.java) | |
 | BOJ | 11286 | [절댓값 힙](http://boj.kr/11286) | Java | [:memo:](자료구조/우선순위%20큐/11286.java) | |
 | Programmers | 42587 | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) | JavaScript | [:memo:](자료구조/우선순위%20큐/p_42587.js) |  |
 | Programmers | 42627 | [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) | JavaScript | [:memo:](자료구조/우선순위%20큐/p_42627.js) | [:technologist:](https://raejoonee.tistory.com/17) |
