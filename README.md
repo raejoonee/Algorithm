@@ -114,6 +114,11 @@
 | BOJ | 12904 | [A와 B](http://boj.kr/12904) | JavaScript | [:memo:](문자열/12904.js) | |
 | Programmers | 12903 | [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) | JavaScript | [:memo:](문자열/programmers_12903.js) | |
 
+### 정규 표현식
+| 문제 출처 | 문제 번호 | 문제 이름 | 풀이 언어 | 풀이 | 회고 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| BOJ | 1013 | [Contact](http://boj.kr/1013) | JavaScript | [:memo:](문자열/정규%20표현식/1013.js) | |
+
 ## 분할 정복
 
 | 문제 출처 | 문제 번호 | 문제 이름 | 풀이 언어 | 풀이 | 회고 |
