@@ -156,6 +156,7 @@
 | BOJ | 1065 | [한수](http://boj.kr/1065) | C++ | [:memo:](완전%20탐색/1065.cpp) | |
 | BOJ | 1182 | [부분수열의 합](http://boj.kr/1182) | Java | [:memo:](완전%20탐색/1182.java) | |
 | BOJ | 1436 | [영화감독 숌](http://boj.kr/1436) | C++ | [:memo:](완전%20탐색/1436.cpp) | |
+| BOJ | 1759 | [암호 만들기](http://boj.kr/1759) | Java | [:memo:](완전%20탐색/1759.java) | |
 | BOJ | 2961 | [도영이가 만든 맛있는 음식](http://boj.kr/2961) | Java | [:memo:](완전%20탐색/2961.java) | |
 | BOJ | 7568 | [덩치](http://boj.kr/7568) | C++ | [:memo:](완전%20탐색/7568.cpp) | |
 | BOJ | 14650 | [걷다보니 신천역 삼 (Small)](http://boj.kr/14650) | JavaScript | [:memo:](완전%20탐색/14650.js) | |
