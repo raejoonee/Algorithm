@@ -8,7 +8,7 @@
 
 ## Category
 > * 아래 기준에 부합하는 문제를 풀고, 풀이를 완료한 문제는 알고리즘에 따라 분류를 합니다.
-> * **기준:** 백준 난이도 실버 이상, 프로그래머스 난이도 Level 2 이상 
+> * **기준:** 백준 난이도 실버 이상, 프로그래머스 난이도 Level 2 이상
 > * 배운 점이 많았거나, 회고할 만한 인상적인 내용이 있는 문제는 따로 회고를 남깁니다.
  * [구현](https://github.com/raejoonee/Algorithm#구현)
  * [그래프](https://github.com/raejoonee/Algorithm#그래프)
