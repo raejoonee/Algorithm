@@ -30,6 +30,7 @@
 | BOJ | 1138 | [한 줄로 서기](http://boj.kr/1138) | Java | [:memo:](구현/1138.java) | |
 | BOJ | 1244 | [스위치 켜고 끄기](http://boj.kr/1244) | Java | [:memo:](구현/1244.java) | |
 | BOJ | 2563 | [색종이](http://boj.kr/2563) | Java | [:memo:](구현/2563.java) | |
+| BOJ | 14503 | [로봇 청소기](http://boj.kr/14503) | JavaScript | [:memo:](구현/14503.js) | |
 | BOJ | 16926 | [배열 돌리기 1](http://boj.kr/16926) | Java | [:memo:](구현/16926.java) | |
 | BOJ | 16935 | [배열 돌리기 3](http://boj.kr/16935) | Java | [:memo:](구현/16935.java) | |
 | BOJ | 17144 | [미세먼지 안녕!](http://boj.kr/17144) | JavaScript | [:memo:](구현/17144.js) | |
