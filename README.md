@@ -47,6 +47,7 @@
 | BOJ | 1012 | [유기농 배추](http://boj.kr/1012) | JavaScript | [:memo:](그래프/1012.js) | |
 | BOJ | 1260 | [DFS와 BFS](http://boj.kr/1260) | C++ | [:memo:](그래프/1260.cpp) | |
 | BOJ | 1405 | [미친 로봇](http://boj.kr/1405) | Java | [:memo:](그래프/1405.java) | |
+| BOJ | 1600 | [말이 되고픈 원숭이](http://boj.kr/1600) | Java | [:memo:](그래프/1600.java) | |
 | BOJ | 2210 | [숫자판 점프](http://boj.kr/2210) | Java | [:memo:](그래프/2210.java) | |
 | BOJ | 2636 | [치즈](http://boj.kr/2636) | Java | [:memo:](그래프/2636.java) | |
 | BOJ | 3184 | [양](http://boj.kr/3184) | Java | [:memo:](그래프/3184.java) | |
