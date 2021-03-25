@@ -52,6 +52,7 @@
 | BOJ | 2636 | [치즈](http://boj.kr/2636) | Java | [:memo:](그래프/2636.java) | |
 | BOJ | 3184 | [양](http://boj.kr/3184) | Java | [:memo:](그래프/3184.java) | |
 | BOJ | 7576 | [토마토](http://boj.kr/7576) | C++ | [:memo:](그래프/7576.cpp) | |
+| BOJ | 9205 | [맥주 마시면서 걸어가기](http://boj.kr/9205) | Java | [:memo:](그래프/9205.java) | |
 | BOJ | 10451 | [순열 사이클](http://boj.kr/10451) | C++ | [:memo:](그래프/10451.cpp) | |
 | BOJ | 11403 | [경로 찾기](http://boj.kr/11403) | JavaScript | [:memo:](그래프/11403.js) | |
 | BOJ | 11724 | [연결 요소의 개수](http://boj.kr/11724) | C++ | [:memo:](그래프/11724.cpp) | |
