@@ -56,6 +56,7 @@
 | BOJ | 10451 | [순열 사이클](http://boj.kr/10451) | C++ | [:memo:](그래프/10451.cpp) | |
 | BOJ | 11403 | [경로 찾기](http://boj.kr/11403) | JavaScript | [:memo:](그래프/11403.js) | |
 | BOJ | 11724 | [연결 요소의 개수](http://boj.kr/11724) | C++ | [:memo:](그래프/11724.cpp) | |
+| BOJ | 14502 | [연구소](http://boj.kr/14502) | Java | [:memo:](그래프/14502.java) | |
 | Programmers | 43162 | [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) | JavaScript | [:memo:](그래프/p_43162.js) |  |
 
 ### 유니온 파인드 알고리즘
