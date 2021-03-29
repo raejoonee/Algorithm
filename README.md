@@ -102,7 +102,9 @@
 | BOJ | 2193 | [이친수](http://boj.kr/2193) | C++ | [:memo:](다이나믹%20프로그래밍/2193.cpp) | [:technologist:](https://raejoonee.tistory.com/5) |
 | BOJ | 2491 | [수열](http://boj.kr/2491) | Java | [:memo:](다이나믹%20프로그래밍/2491.java) | |
 | BOJ | 2579 | [계단 오르기](http://boj.kr/2579) | C++ | [:memo:](다이나믹%20프로그래밍/2579.cpp) | |
+| BOJ | 5557 | [1학년](http://boj.kr/5557) | Java | [:memo:](다이나믹%20프로그래밍/5557.java) | |
 | BOJ | 9461 | [파도반 수열](http://boj.kr/9461) | C++ | [:memo:](다이나믹%20프로그래밍/9461.cpp) | |
+| BOJ | 10422 | [괄호](http://boj.kr/10422) | Java | [:memo:](다이나믹%20프로그래밍/10422.java) | |
 | BOJ | 11053 | [가장 긴 증가하는 부분 수열](http://boj.kr/11053) | JavaScript | [:memo:](다이나믹%20프로그래밍/11053.js) | |
 | BOJ | 11057 | [오르막 수](http://boj.kr/11057) | C++ | [:memo:](다이나믹%20프로그래밍/11057.cpp) | |
 | BOJ | 11066 | [파일 합치기](http://boj.kr/11066) | Java | [:memo:](다이나믹%20프로그래밍/11066.java) | |
