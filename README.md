@@ -160,6 +160,7 @@
 | BOJ | 6603 | [로또](http://boj.kr/6603) | Java | [:memo:](수학/6603.java) | |
 | BOJ | 10610 | [30](http://boj.kr/10610) | JavaScript | [:memo:](수학/10610.js) | |
 | BOJ | 17213 | [과일 서리](http://boj.kr/17213) | C++ | [:memo:](수학/17213.cpp) | [:technologist:](https://raejoonee.tistory.com/4) |
+| Programmers | 12899 | [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) | JavaScript | [:memo:](수학/p_12899.js) | |
  
 ## 완전 탐색
 
