@@ -174,6 +174,7 @@
 | BOJ | 2961 | [도영이가 만든 맛있는 음식](http://boj.kr/2961) | Java | [:memo:](완전%20탐색/2961.java) | |
 | BOJ | 7568 | [덩치](http://boj.kr/7568) | C++ | [:memo:](완전%20탐색/7568.cpp) | |
 | BOJ | 14650 | [걷다보니 신천역 삼 (Small)](http://boj.kr/14650) | JavaScript | [:memo:](완전%20탐색/14650.js) | |
+| BOJ | 16439 | [치킨치킨치킨](http://boj.kr/16439) | Java | [:memo:](완전%20탐색/16439.java) | |
  
 ## 이분 탐색
  
