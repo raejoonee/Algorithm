@@ -127,6 +127,7 @@
 | BOJ | 11656 | [접미사 배열](http://boj.kr/11656) | C++ | [:memo:](문자열/11656.cpp) | |
 | BOJ | 12904 | [A와 B](http://boj.kr/12904) | JavaScript | [:memo:](문자열/12904.js) | |
 | Programmers | 12903 | [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) | JavaScript | [:memo:](문자열/programmers_12903.js) | |
+| Programmers | 60057 | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) | JavaScript | [:memo:](문자열/p_60057.js) | |
 
 ### 정규 표현식
 | 문제 출처 | 문제 번호 | 문제 이름 | 풀이 언어 | 풀이 | 회고 |
