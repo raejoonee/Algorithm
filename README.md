@@ -163,6 +163,7 @@
 | BOJ | 10610 | [30](http://boj.kr/10610) | JavaScript | [:memo:](수학/10610.js) | |
 | BOJ | 17213 | [과일 서리](http://boj.kr/17213) | C++ | [:memo:](수학/17213.cpp) | [:technologist:](https://raejoonee.tistory.com/4) |
 | Programmers | 12899 | [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) | JavaScript | [:memo:](수학/p_12899.js) | |
+| Programmers | 62048 | [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048) | JavaScript | [:memo:](수학/p_62048.js) | |
  
 ## 완전 탐색
 
@@ -224,6 +225,7 @@
 | BOJ | 1966 | [프린터 큐](http://boj.kr/1966) | Java | [:memo:](자료구조/큐/1966.java) | |
 | BOJ | 2164 | [카드2](http://boj.kr/2164) | Java | [:memo:](자료구조/큐/2164.java) | |
 | Programmers | 42583 | [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) | JavaScript | [:memo:](자료구조/큐/p_42583.js) | [:technologist:](https://raejoonee.tistory.com/13) |
+| Programmers | 42584 | [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) | C++ | [:memo:](자료구조/큐/p_42584.cpp) | |
 | Programmers | 42586 | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | JavaScript | [:memo:](자료구조/큐/p_42586.js) | [:technologist:](https://raejoonee.tistory.com/12) |
 
 #### 우선순위 큐
