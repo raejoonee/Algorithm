@@ -7,7 +7,7 @@
 ---
 
 ## Category
-> * 아래 기준에 부합하는 문제를 풀고, 풀이를 완료한 문제는 알고리즘에 따라 분류를 합니다.
+> * 아래 기준에 부합하는 문제를 풀고, 풀이를 완료한 문제는 문제를 풀 때 사용한 알고리즘에 따라 분류를 합니다.
 > * **기준:** 백준 난이도 실버 이상, 프로그래머스 난이도 Level 2 이상
 > * 배운 점이 많았거나, 회고할 만한 인상적인 내용이 있는 문제는 따로 회고를 남깁니다.
  * [구현](https://github.com/raejoonee/Algorithm#구현)
@@ -33,6 +33,7 @@
 | BOJ | 2563 | [색종이](http://boj.kr/2563) | Java | [:memo:](구현/2563.java) | |
 | BOJ | 3190 | [뱀](http://boj.kr/3190) | JavaScript | [:memo:](구현/3190.js) | |
 | BOJ | 14503 | [로봇 청소기](http://boj.kr/14503) | JavaScript | [:memo:](구현/14503.js) | |
+| BOJ | 17478 | [선수과목 (Prerequisite)](http://boj.kr/14567) | Java | [:memo:](구현/14567.java) | |
 | BOJ | 16926 | [배열 돌리기 1](http://boj.kr/16926) | Java | [:memo:](구현/16926.java) | |
 | BOJ | 16935 | [배열 돌리기 3](http://boj.kr/16935) | Java | [:memo:](구현/16935.java) | |
 | BOJ | 17144 | [미세먼지 안녕!](http://boj.kr/17144) | JavaScript | [:memo:](구현/17144.js) | |
