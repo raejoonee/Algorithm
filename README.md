@@ -92,6 +92,7 @@
 | BOJ | 15903 | [카드 합체 놀이](http://boj.kr/15903) | C++ | [:memo:](그리디%20알고리즘/15903.cpp) | |
 | BOJ | 18418 | [いちご](http://boj.kr/18418) | JavaScript | [:memo:](그리디%20알고리즘/18418.js) | |
 | BOJ | 19241 | [해적과 보석](http://boj.kr/19241) | Java | [:memo:](그리디%20알고리즘/19241.java) | |
+| Programmers | 42860 | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) | JavaScript | [:memo:](그리디%20알고리즘/p_42860.js) | |
 
 ## 다이나믹 프로그래밍
 
@@ -239,6 +240,7 @@
 | BOJ | 1715 | [카드 정렬하기](http://boj.kr/1715) | Java | [:memo:](자료구조/우선순위%20큐/1715.java) | |
 | BOJ | 11286 | [절댓값 힙](http://boj.kr/11286) | Java | [:memo:](자료구조/우선순위%20큐/11286.java) | |
 | Programmers | 42587 | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) | JavaScript | [:memo:](자료구조/우선순위%20큐/p_42587.js) |  |
+| Programmers | 42626 | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) | C++ | [:memo:](자료구조/우선순위%20큐/p_42626.js) | |
 | Programmers | 42627 | [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) | JavaScript | [:memo:](자료구조/우선순위%20큐/p_42627.js) | [:technologist:](https://raejoonee.tistory.com/17) |
 
 ## 정렬
