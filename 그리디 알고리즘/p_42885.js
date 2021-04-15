@@ -3,6 +3,7 @@ function solution(people, limit) {
     people.sort((a,b)=>b-a);
     let left = 0;
     let right = people.length-1;
+    
     while (true) {
         if (left > right) break;
         answer++;
