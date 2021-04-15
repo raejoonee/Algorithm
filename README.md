@@ -93,6 +93,7 @@
 | BOJ | 15903 | [카드 합체 놀이](http://boj.kr/15903) | C++ | [:memo:](그리디%20알고리즘/15903.cpp) | |
 | BOJ | 18418 | [いちご](http://boj.kr/18418) | JavaScript | [:memo:](그리디%20알고리즘/18418.js) | |
 | BOJ | 19241 | [해적과 보석](http://boj.kr/19241) | Java | [:memo:](그리디%20알고리즘/19241.java) | |
+| Programmers | 42885 | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) | JavaScript | [:memo:](그리디%20알고리즘/p_42885.js) | |
 | Programmers | 42860 | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) | JavaScript | [:memo:](그리디%20알고리즘/p_42860.js) | |
 
 ## 다이나믹 프로그래밍
