@@ -39,6 +39,7 @@
 | BOJ | 17144 | [미세먼지 안녕!](http://boj.kr/17144) | JavaScript | [:memo:](구현/17144.js) | |
 | BOJ | 17478 | [재귀함수가 뭔가요?](http://boj.kr/17478) | Java | [:memo:](구현/17478.java) | |
 | BOJ | 20055 | [컨베이어 벨트 위의 로봇](http://boj.kr/20055) | JavaScript | [:memo:](구현/20055.js) | |
+| Programmers | 12909 | [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909) | JavaScript | [:memo:](구현/p_12909.js) | |
 | Programmers | 17676 | [추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676) | JavaScript | [:memo:](구현/p_17676.js) | [:technologist:](https://raejoonee.tistory.com/14) |
 | Programmers | 72411 | [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411) | JavaScript | [:memo:](구현/p_17676.js) | |
 
