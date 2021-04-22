@@ -87,6 +87,7 @@
 | BOJ | 1541 | [잃어버린 괄호](http://boj.kr/1541) | JavaScript | [:memo:](그리디%20알고리즘/1541.js) | [:technologist:](https://raejoonee.tistory.com/11) |
 | BOJ | 1744 | [수 묶기](http://boj.kr/1744) | C++ | [:memo:](그리디%20알고리즘/1744.cpp) | |
 | BOJ | 2847 | [게임을 만든 동준이](http://boj.kr/2847) | JavaScript | [:memo:](그리디%20알고리즘/2847.js) | |
+| BOJ | 7507 | [올림픽 게임](http://boj.kr/7507) | Java | [:memo:](그리디%20알고리즘/7507.java) | |
 | BOJ | 11047 | [동전 0](http://boj.kr/11047) | C++ | [:memo:](그리디%20알고리즘/11047.cpp) | |
 | BOJ | 11399 | [ATM](http://boj.kr/11399) | C++ | [:memo:](그리디%20알고리즘/11399.cpp) | |
 | BOJ | 13904 | [과제](http://boj.kr/13904) | JavaScript | [:memo:](그리디%20알고리즘/13904.js) | |
