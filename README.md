@@ -252,6 +252,12 @@
 | Programmers | 42626 | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) | C++ | [:memo:](자료구조/우선순위%20큐/p_42626.cpp) | |
 | Programmers | 42627 | [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) | JavaScript | [:memo:](자료구조/우선순위%20큐/p_42627.js) | [:technologist:](https://raejoonee.tistory.com/17) |
 
+### 트리
+
+| 문제 출처 | 문제 번호 | 문제 이름 | 풀이 언어 | 풀이 | 회고 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| BOJ | 11725 | [트리의 부모 찾기](http://boj.kr/11725) | Java | [:memo:](자료구조/트리/11725.java) | |
+
 ## 정렬
 
 | 문제 출처 | 문제 번호 | 문제 이름 | 풀이 언어 | 풀이 | 회고 |
