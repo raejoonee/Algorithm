@@ -41,6 +41,7 @@
 | BOJ | 20055 | [컨베이어 벨트 위의 로봇](http://boj.kr/20055) | JavaScript | [:memo:](구현/20055.js) | |
 | Programmers | 12909 | [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909) | JavaScript | [:memo:](구현/p_12909.js) | |
 | Programmers | 17676 | [추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676) | JavaScript | [:memo:](구현/p_17676.js) | [:technologist:](https://raejoonee.tistory.com/14) |
+| Programmers | 17687 | [N진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687) | JavaScript | [:memo:](구현/p_17687.js) | |
 | Programmers | 72411 | [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411) | JavaScript | [:memo:](구현/p_17676.js) | |
 
 ## 그래프
