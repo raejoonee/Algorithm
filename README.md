@@ -176,6 +176,7 @@
 | BOJ | 17213 | [과일 서리](http://boj.kr/17213) | C++ | [:memo:](수학/17213.cpp) | [:technologist:](https://raejoonee.tistory.com/4) |
 | Programmers | 12899 | [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) | JavaScript | [:memo:](수학/p_12899.js) | |
 | Programmers | 12911 | [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911) | JavaScript | [:memo:](수학/p_12911.js) | |
+| Programmers | 12939 | [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939) | JavaScript | [:memo:](수학/p_12939.js) | |
 | Programmers | 12924 | [숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924) | JavaScript | [:memo:](수학/p_12924.js) | |
 | Programmers | 42842 | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) | JavaScript | [:memo:](수학/p_42842.js) | |
 | Programmers | 62048 | [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048) | JavaScript | [:memo:](수학/p_62048.js) | |
