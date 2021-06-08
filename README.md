@@ -30,6 +30,7 @@
 | BOJ | 1138 | [한 줄로 서기](http://boj.kr/1138) | Java | [:memo:](구현/1138.java) | |
 | BOJ | 1194 | [달이 차오른다, 가자.](http://boj.kr/1194) | Java | [:memo:](구현/1194.java) | [:technologist:](https://raejoonee.tistory.com/19) |
 | BOJ | 1244 | [스위치 켜고 끄기](http://boj.kr/1244) | Java | [:memo:](구현/1244.java) | |
+| BOJ | 1713 | [후보 추천하기](http://boj.kr/1713) | Java | [:memo:](구현/1713.java) | |
 | BOJ | 2563 | [색종이](http://boj.kr/2563) | Java | [:memo:](구현/2563.java) | |
 | BOJ | 3190 | [뱀](http://boj.kr/3190) | JavaScript | [:memo:](구현/3190.js) | |
 | BOJ | 14503 | [로봇 청소기](http://boj.kr/14503) | JavaScript | [:memo:](구현/14503.js) | |
