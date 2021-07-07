@@ -236,6 +236,7 @@
 | BOJ | 1935 | [후위 표기식2](http://boj.kr/1935) | Java | [:memo:](자료구조/스택/1935.java) | |
 | BOJ | 2493 | [탑](http://boj.kr/2493) | Java | [:memo:](자료구조/스택/2493.java) | |
 | BOJ | 10773 | [제로](http://boj.kr/10773) | C++ | [:memo:](자료구조/스택/10773.cpp) | |
+| Programmers | 12973 | [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) | JavaScript | [:memo:](자료구조/스택/p_12973.js) | |
 | Programmers | 49993 | [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993) | C++, JavaScript | [:memo:](자료구조/스택/p_49993.cpp) [:memo:](자료구조/스택/p_49993.js) | [:technologist:](https://raejoonee.tistory.com/8) |
 | Programmers | 60058 | [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) | JavaScript | [:memo:](자료구조/스택/p_60058.js) | |
 
