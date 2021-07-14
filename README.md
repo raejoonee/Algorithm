@@ -43,6 +43,7 @@
 | Programmers | 12909 | [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909) | JavaScript | [:memo:](구현/p_12909.js) | |
 | Programmers | 17676 | [추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676) | JavaScript | [:memo:](구현/p_17676.js) | [:technologist:](https://raejoonee.tistory.com/14) |
 | Programmers | 17687 | [N진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687) | JavaScript | [:memo:](구현/p_17687.js) | |
+| Programmers | 42747 | [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) | JavaScript | [:memo:](구현/p_42747.js) | |
 | Programmers | 72411 | [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411) | JavaScript | [:memo:](구현/p_17676.js) | |
 
 ## 그래프
