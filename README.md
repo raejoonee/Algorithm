@@ -221,6 +221,7 @@
 | BOJ | 1620 | [나는야 포켓몬 마스터 이다솜](http://boj.kr/1620) | JavaScript | [:memo:](자료구조/맵/1620.js) | |
 | BOJ | 17219 | [비밀번호 찾기](http://boj.kr/17219) | JavaScript | [:memo:](자료구조/맵/17219.js) | |
 | Programmers | 42578 | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | JavaScript | [:memo:](자료구조/맵/p_42578.js) | |
+| Programmers | 42888 | [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) | JavaScript | [:memo:](자료구조/맵/p_42888.js) | |
 | Programmers | 64065 | [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) | JavaScript | [:memo:](자료구조/맵/p_64065.js) | |
 
 ### 세트
