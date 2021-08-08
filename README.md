@@ -66,7 +66,7 @@
 | BOJ | 11724 | [연결 요소의 개수](http://boj.kr/11724) | C++ | [:memo:](그래프/11724.cpp) | |
 | BOJ | 14502 | [연구소](http://boj.kr/14502) | Java | [:memo:](그래프/14502.java) | |
 | Programmers | 43162 | [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) | JavaScript | [:memo:](그래프/p_43162.js) |  |
-| Programmers | 43165 | [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | JavaScript | [:memo:](그래프/p_43165.js) |  |
+| Programmers | 43165 | [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | JavaScript | [:memo:](그래프/p_43165.js) | [:technologist:](https://raejoonee.tistory.com/21) |
 | Programmers | 49189 | [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) | JavaScript | [:memo:](그래프/p_49189.js) |  |
 
 ### 유니온 파인드 알고리즘
